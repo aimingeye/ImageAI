@@ -4,7 +4,7 @@ This is a website, with a simple skeleton for Registering, Signing up and Recogn
 
 ## Getting Started
 
-Explain how to set up and run your React app locally.
+Install node, and then follow the installation step to run the webapp locally.
 
 ### Prerequisites
 
