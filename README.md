@@ -15,8 +15,7 @@ Software or tools that need to be installed before setting up the project:
 
 ### Installation
 
-1. Clone the repository
-2. ```shell
+Clone the repository and make sure you have npm installed and then use the following commands in your cmd/terminal:
+```shell
     cd directory-of-the-app
     npm start
-3. Make sure you have npm installed before following up point no.2
