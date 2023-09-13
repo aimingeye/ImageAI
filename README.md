@@ -8,7 +8,7 @@ Install node, and then follow the installation step to run the webapp locally.
 
 ### Prerequisites
 
-List any software or tools that need to be installed before setting up the project. For example:
+Software or tools that need to be installed before setting up the project:
 
 - Node.js 
 - npm
